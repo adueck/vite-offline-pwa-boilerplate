@@ -4,6 +4,8 @@
 
 Boilerplate for a fully offline-available PWA that caches everything.
 
+[Blog post - tutorial](https://adueck.github.io/blog/caching-everything-for-totally-offline-pwa-vite-react/)
+
 ## Develoment
 
 ```
